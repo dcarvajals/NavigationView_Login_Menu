@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Repositorio UTEQ</string>
+    <string name="titulo_app">Iniciar Sesión</string>
+    <string name="tf_correo">Correo eléctronico</string>
+    <string name="tf_contrasenia">Contraseña</string>
+    <string name="btn_login">Acceder</string>
+    <string name="conjunto_de_datos">Conjunto de datos</string>
+    <string name="proyectos_integradores">Proyectos Integradores</string>
+    <string name="algoritmos">Algoritmos</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="mis_donaciones">Mis donaciones</string>
+    <string name="administracion">Administracion</string>
+    <string name="solicitudes">Solicitudes</string>
+    <string name="gestion_de_usuarios">Gestion de usuarios</string>
+    <string name="unidades_de_estudio">Unidades de estudio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>

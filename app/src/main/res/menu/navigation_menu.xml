@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_ho"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/menuAdmin"
+        android:title="@string/administracion">
+        <menu>
+            <item android:id="@+id/id_sc"
+                android:title="@string/solicitudes"
+                android:icon="@drawable/solicitud"
+                />
+
+            <item android:id="@+id/id_ue"
+                android:title="@string/unidades_de_estudio"
+                android:icon="@drawable/libro"
+                />
+
+            <item android:id="@+id/id_gu"
+                android:title="@string/gestion_de_usuarios"
+                android:icon="@drawable/usuarios"
+                />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menuUser"
+        android:title="@string/mis_donaciones">
+        <menu>
+            <item
+                android:id="@+id/id_cd"
+                android:icon="@drawable/cdatos"
+                android:title="@string/conjunto_de_datos" />
+
+            <item
+                android:id="@+id/id_pi"
+                android:icon="@drawable/pintegrador"
+                android:title="@string/proyectos_integradores" />
+
+            <item
+                android:id="@+id/id_al"
+                android:icon="@drawable/algoritmo"
+                android:title="@string/algoritmos" />
+
+            </menu>
+    </item>
+    <item
+        android:id="@+id/id_cs"
+        android:icon="@drawable/cerrarsesion"
+        android:title="@string/cerrar_sesi_n" />
+</menu>

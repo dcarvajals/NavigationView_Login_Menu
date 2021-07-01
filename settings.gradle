@@ -1,0 +1,2 @@
+rootProject.name = "NavigationView_Login_Menu"
+include ':app'
